@@ -60,7 +60,7 @@ main {
   align-items: center;
   gap: 77px;
 
-  margin-top: 100px;
+  margin: 100px 0 157px;
 }
 
 h1,
@@ -84,8 +84,6 @@ footer {
   font-family: var(--font);
   font-size: 14px;
   color: var(--title-color);
-
-  margin-top: 157px;
 }
 
 .line {
